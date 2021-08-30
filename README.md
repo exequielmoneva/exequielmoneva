@@ -5,6 +5,6 @@ I've worked with both Flask and Django frameworks inside different projects crea
 
 :man_technologist: I'm really into Machine learning, I enjoy my free time looking for new ideas for ML projects where I can combine the things I've learned and experiment. I also like to participate in competitions from pages like Kaggle and Datasource.ai.
 
-🌱 I’m currently a the half of my computer engineering degree. I'm also starting to learn and experiment with Golang.
+🌱 I’m currently at the half of my computer engineering degree. I'm also starting to learn and experiment with Golang.
 
 📫 You can always reach me through [email](mailto:exequielmoneva@gmail.com) or [LinkedIn](https://www.linkedin.com/in/exequiel-moneva/?locale=en_US)
