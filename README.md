@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Exe!
-I'm a backend developer with a passion for Machine Learning and Data Science with more than 3 years of experience, currently working as a Data Scientist.
+I'm a backend developer with more than 3 years of experience passionate about Machine Learning and Data Science, currently working as a Data Scientist.
 
 I've worked with both Flask and Django frameworks inside different projects creating REST APIs for more than 3 years using many different technologies such as AWS (EC2 and lambda) and PostgreSQL. I've worked creating machine learning models with Keras, XGBoost and LightGBM mostly focused in NLP or regression, but I've also made some incursions in Computer Vision. Thanks to that, I have gained a lot of hands-on experience analyzing normalizing and transforming data.
 
