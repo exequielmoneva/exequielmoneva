@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Exe!</h1>
 <h3 align="center">Data Scientist & Python Developer</h3>
 
-I'm a Data Scientist & Python Developer with more than 3 years of experience, passionate about Machine Learning and Data Science. I've worked with both Flask and Django frameworks inside different projects creating REST APIs for more than 3 years using many different technologies such as AWS (EC2 and lambda) and PostgreSQL. I've worked creating machine learning models with Keras, XGBoost and LightGBM mostly focused in NLP or regression, but I've also made some incursions in Computer Vision. Thanks to that, I have gained a lot of hands-on experience analyzing, normalizing and transforming data.
+I'm a Data Scientist & Python Developer with more than 3 years of experience, passionate about Machine Learning. I've worked with both Flask and Django frameworks inside different projects creating REST APIs using different technologies such as AWS (EC2 and lambda), RabbitMQ, Redis, Mongodb, MySQL and PostgreSQL among others. I've also worked with Keras, XGBoost and LightGBM mostly focused in NLP or regression, but I've also made some incursions in Computer Vision with Pytorch. Thanks to that, I have gained a lot of hands-on experience analyzing, normalizing and transforming data.
 
-:man_technologist: I'm really into Machine learning, I enjoy my free time looking for new ideas for ML projects where I can combine the things I've learned and experiment. I also like to participate in competitions from pages like Kaggle and Datasource.ai.
+:man_technologist: I'm really into Machine learning, I enjoy my free time looking for new ideas for ML projects where I can combine the things I've learned and experiment.
 
 - 🌱 I’m currently learning **Golang and Pytorch**
 
