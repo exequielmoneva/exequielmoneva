@@ -5,7 +5,7 @@ I'm a Data Scientist & Python Developer with more than 3 years of experience, pa
 
 :man_technologist: I'm really into Machine learning, I enjoy my free time looking for new ideas for ML projects where I can combine the things I've learned and experiment.
 
-- 🌱 I’m currently learning **Golang and Pytorch**
+- 🌱 I’m currently learning **Golang, Java and Pytorch**
 
 - 📫 How to reach me: **exequielmoneva@gmail.com**
 
