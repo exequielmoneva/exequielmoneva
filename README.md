@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Exe!</h1>
 <h3 align="center">Data Scientist & Python Developer</h3>
 
-I'm a Data Scientist & Python Developer with more than 3 years of experience, passionate about Machine Learning. I've worked with both Flask and Django frameworks within different projects creating REST APIs using technologies such as AWS (EC2 and lambda), RabbitMQ, Redis, Mongodb, MySQL and PostgreSQL among others. I've also worked with Keras, XGBoost and LightGBM mostly focused in NLP or regression, and made some incursions in Computer Vision with Pytorch. Thanks to that, I have gained a lot of hands-on experience analyzing, normalizing and transforming data, feature development and implementation, unit testing and good practices when it comes to programming.
+I'm a Data Scientist & Python Developer with more than 3 years of experience, passionate about Machine Learning. As a Software Engineer I’ve worked using languages like Java with Spring Boot and Python with both Flask and Django frameworks within different projects creating REST APIs. My stack also includes technologies such as AWS (EC2 and lambda), RabbitMQ, Redis, Mongodb, MySQL and PostgreSQL among others.
 
+As a Data Scientist I've taken ML tasks or research task depending on the team needs. I have worked with Keras for custom model creation, but also with XGBoost and LightGBM focused in NLP having to deal with classification and regression cases. I also made some incursions in Computer Vision with Pytorch on my own free time. 
+
+Due to all this, I have gained a lot of hands-on experience analyzing, normalizing and transforming data, developing and unit testing features, and good practices when it comes to programming.
 :man_technologist: I'm really into Machine learning, I enjoy my free time looking for new ideas for ML projects where I can combine the things I've learned and experiment.
 
-- 🌱 I’m currently learning **Golang, Java and Pytorch**
+- 🌱 I’m currently learning **Golang and Pytorch**
 
 - 📫 How to reach me: **exequielmoneva@gmail.com**
 
