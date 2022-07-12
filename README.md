@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Exe!</h1>
 <h3 align="center">Data Scientist & Python Developer</h3>
 
-I'm a Data Scientist & Python Developer, passionate about Machine Learning and software development. As a Software Engineer I’ve worked using languages like Java with Spring Boot and Python with both Flask and Django frameworks within different projects creating REST APIs. My stack also includes technologies such as AWS (EC2 and lambda), RabbitMQ, Redis, Mongodb, MySQL and PostgreSQL among others.
+I'm a Data Scientist & Python Developer, passionate about Machine Learning and software development.  As a Software Engineer I’ve worked using languages like Java with Spring Boot and Python with both Flask and Django frameworks within different projects creating REST APIs. My stack also includes technologies such as AWS (EC2 and lambda), RabbitMQ, Redis, Mongodb, MySQL and PostgreSQL among others.
 
-As a Data Scientist I've taken ML tasks or research task depending on the team needs. I have worked with Keras for custom model creation, but also with XGBoost and LightGBM focused in NLP having to deal with classification and regression cases. I also made some incursions in Computer Vision with Pytorch on my own free time. 
+As a Data Scientist I've taken ML and research depending on the team needs. I have worked with Keras for custom model creation, but also with XGBoost and LightGBM focused in NLP having to deal with classification and regression cases. I also made some incursions in Computer Vision with Pytorch on my own free time. 
 
-Due to all this, I have gained a lot of hands-on experience analyzing, normalizing and transforming data, developing and unit testing features, and good practices when it comes to programming.
+Due to all this, I have gained a lot of hands-on experience analyzing, normalizing and transforming data, developing and unit testing features, and the use of good practices when it comes to programming.
+
+
 :man_technologist: I'm really into Machine learning, I enjoy my free time looking for new ideas for ML projects where I can combine the things I've learned and experiment.
 
 - 🌱 I’m currently learning **Golang and Pytorch**
