@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Exe!</h1>
 <h3 align="center">Data Scientist & Python Developer</h3>
 
-I'm a Data Scientist & Python Developer with more than 3 years of experience, passionate about Machine Learning and software development. As a Software Engineer I’ve worked using languages like Java with Spring Boot and Python with both Flask and Django frameworks within different projects creating REST APIs. My stack also includes technologies such as AWS (EC2 and lambda), RabbitMQ, Redis, Mongodb, MySQL and PostgreSQL among others.
+I'm a Data Scientist & Python Developer, passionate about Machine Learning and software development. As a Software Engineer I’ve worked using languages like Java with Spring Boot and Python with both Flask and Django frameworks within different projects creating REST APIs. My stack also includes technologies such as AWS (EC2 and lambda), RabbitMQ, Redis, Mongodb, MySQL and PostgreSQL among others.
 
 As a Data Scientist I've taken ML tasks or research task depending on the team needs. I have worked with Keras for custom model creation, but also with XGBoost and LightGBM focused in NLP having to deal with classification and regression cases. I also made some incursions in Computer Vision with Pytorch on my own free time. 
 
